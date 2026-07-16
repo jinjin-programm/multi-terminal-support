@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Private security report
+    url: https://github.com/jinjin-programm/multi-terminal-support/security/advisories/new
+    about: Report a suspected vulnerability privately instead of opening a public issue.
